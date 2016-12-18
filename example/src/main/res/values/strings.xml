@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TheGreatAdapter</string>
+    <string name="click_me">Click me</string>
+    <string name="dummy">Dummy</string>
+</resources>
