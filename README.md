@@ -1,5 +1,6 @@
 # TheGreatAdapter
 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-The%20Great%20Adapter-brightgreen.svg?style=flat)]()
 [![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](http://developer.android.com/index.html)
 [![API](https://img.shields.io/badge/API-14%2B-brightgreen.svg)](https://android-arsenal.com/api?level=14)
 [ ![Download](https://api.bintray.com/packages/davidpacioianu/maven/TheGreatAdapter/images/download.svg) ](https://bintray.com/davidpacioianu/maven/TheGreatAdapter/_latestVersion)
