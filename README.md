@@ -47,7 +47,7 @@ GreatAdapter adapter = new GreatAdapter.Builder(context).build();
 > - Every class that implements the *GreatItem* interface **must have a no-args constructor**.
 > - *getItemType* method must return a unique integer for every class.
 > - *getItemId* method must return a unique id for every instance of the class.
-> - *getSpanSize* method return the span size of the items from that class, to make them match the full span size of the layout manager, return -1.
+> - *getSpanSize* method return the span size of every instance of the class, to make them match the full span size of the layout manager, return -1.
 > - If you just want to add a *one-time-use* view to your recyclerview, use the SimpleItemView class. You just pass it the view you want to show, without the need of creating a useless viewholder. ``` adapter.add(new SimpleItemView(yourView);```
 
 
