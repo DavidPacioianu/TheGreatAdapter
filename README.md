@@ -89,7 +89,7 @@ adapter.removeFooter(yourFooter);
 
 Icon | Application
 ------------ | -------------
-<img src="https://goo.gl/uebQIl" width="48" height="48" /> | [WallSnap](https://play.google.com/store/apps/details?id=com.pixelcan.wallsnap) 
+<img src="https://goo.gl/BMVZy5" width="48" height="48"/> | [WallSnap](https://play.google.com/store/apps/details?id=com.pixelcan.wallsnap) 
 
 
 ----------
