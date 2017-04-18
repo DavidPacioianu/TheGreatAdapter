@@ -84,18 +84,18 @@ adapter.removeFooter(yourFooter);
 ----------
 
 
-###Apps using the TheGreatAdapter
+### Apps using the TheGreatAdapter
 (feel free to send me your project)
 
 Icon | Application
 ------------ | -------------
-<img src="https://goo.gl/uebQIl" width="48" height="48" /> | [WallSnap](https://play.google.com/store/apps/details?id=com.pixelcan.wallsnap) <alt="width="40" height="40" />
+<img src="https://goo.gl/uebQIl" width="48" height="48" /> | [WallSnap](https://play.google.com/store/apps/details?id=com.pixelcan.wallsnap) 
 
 
 ----------
 
 
-###Community
+### Community
 Looking for contributors, feel free to fork!
 
 
